@@ -1,3 +1,5 @@
+[![Netology AHJ](https://github.com/romiraxp/js_extd_env/actions/workflows/web.yml/badge.svg?branch=main)](https://github.com/romiraxp/js_extd_env/actions/workflows/web.yml)
+
 # Домашнее задание к занятию "1. Рабочее окружение"
 
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
